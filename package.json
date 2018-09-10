@@ -28,5 +28,8 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0"
   }
 }
